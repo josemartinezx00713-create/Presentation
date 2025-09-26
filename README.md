@@ -6,7 +6,7 @@
 
 <!-- GIF de dragón descansando -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWgxYmxxZTM4N3Rkano3MTR1cDNvMGQycWE5NTluNG1vbWoycGlnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="1000"/>
 </p>
 
 ---
