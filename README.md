@@ -14,8 +14,8 @@
 
 <h2>📂 Proyectos Destacados</h2>
 <ul>
-  <li><a href="https://github.com/josemartinezx00713-create/Proyecto-SistemaNegocio">Sistema Negocio</a> - Sistema completo de gestión de negocios</li>
-  <li><a href="https://github.com/josemartinezx00713-create/ProyectosIngenieria">Proyectos HTML</a> - Algunos trabajos hechos en clase CSS</li>
+  <li><a href="[https://github.com/josemartinezx00713-create/Proyecto-SistemaNegocio](https://github.com/josemartinezx00713-create/SistemaNegocio)">Sistema Negocio</a> - Sistema completo de gestión de negocios</li>
+  <li><a href="[https://github.com/josemartinezx00713-create/ProyectosIngenieria](https://github.com/josemartinezx00713-create/Proyectos-Ingenier-a)">Proyectos HTML</a> - Algunos trabajos hechos en clase CSS</li>
 </ul>
 
 <h2>📈 GitHub Stats</h2>
