@@ -1,10 +1,9 @@
 <h1 align="center">Hola 👋, soy José Martínez</h1>
 
 <p align="center">
-  Desarrollador web en formación | Apasionado por HTML, CSS y JS
+  Ingeniero en sistemas en formación | Si lo puedes imaginar, lo puedes programar:)
 </p>
 
-<!-- GIF de dragón descansando -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWgxYmxxZTM4N3Rkano3MTR1cDNvMGQycWE5NTluNG1vbWoycGlnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="1000"/>
 </p>
@@ -13,6 +12,9 @@
 
 ## 💻 Tecnologías
 <ul>
+  <li>Python</li>
+  <li>C#</li>
+  <li>SSMS</li>
   <li>HTML5, CSS3, JavaScript</li>
   <li>Git & GitHub</li>
   <li>Proyectos web responsivos</li>
