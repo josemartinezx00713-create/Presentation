@@ -26,13 +26,13 @@
     <tr>
       <td align="center">
         <a href="https://github.com/josemartinezx00713-create/SistemaNegocio">
-          <img src="https://via.placeholder.com/150" alt="SistemaNegocio" width="150"/><br>
+          <img src="https://art.pixilart.com/sr5za466438892aws3.png" alt="SistemaNegocio" width="150"/><br>
           Sistema Negocio
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/josemartinezx00713-create/Proyectos-Ingenier-a">
-          <img src="https://via.placeholder.com/150" alt="Proyectos HTML CSS" width="150"/><br>
+          <img src="https://via.placeholder.com/150" alt="Proyectos HTML" width="150"/><br>
           Proyectos HTML
         </a>
       </td>
