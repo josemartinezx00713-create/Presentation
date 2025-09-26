@@ -15,8 +15,7 @@
 <h2>📂 Proyectos Destacados</h2>
 <ul>
   <li><a href="https://github.com/josemartinezx00713-create/Proyecto-SistemaNegocio">Sistema Negocio</a> - Sistema completo de gestión de negocios</li>
-  <li><a href="https://github.com/josemartinezx00713-create/DICCIONARIO-CSS">Diccionario CSS</a> - Referencia rápida de propiedades CSS</li>
-  <li><a href="https://github.com/josemartinezx00713-create/CHAT-TRADUCCIONES">Chat-Traducciones</a> - Proyecto de traducciones de chat en tiempo real</li>
+  <li><a href="https://github.com/josemartinezx00713-create/ProyectosIngenieria">Proyectos HTML</a> - Algunos trabajos hechos en clase CSS</li>
 </ul>
 
 <h2>📈 GitHub Stats</h2>
@@ -26,8 +25,7 @@
 
 <h2>📫 Contacto</h2>
 <p>
-  ✉️ Email: tuemail@ejemplo.com<br>
-  🔗 LinkedIn: <a href="https://linkedin.com/in/tuusuario">Perfil LinkedIn</a>
+  ✉️ Email: josemartinezx00713@gmail.com<br>
 </p>
 
 Agregando README visual al perfil.
