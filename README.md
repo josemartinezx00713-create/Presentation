@@ -27,5 +27,3 @@
 <p>
   ✉️ Email: josemartinezx00713@gmail.com<br>
 </p>
-
-Agregando README visual al perfil.
