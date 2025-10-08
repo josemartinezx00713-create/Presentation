@@ -27,7 +27,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/josemartinezx00713-create/SistemaNegocio">
+        <a href="https://github.com/josemartinezx00713-create/Sistema-de-negocio.git">
           <img src="https://images.alphacoders.com/113/thumb-1920-1130469.png" alt="SistemaNegocio" width="150"/><br>
           Sistema Negocio
         </a>
